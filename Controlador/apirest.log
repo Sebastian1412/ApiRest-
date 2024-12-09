@@ -1,0 +1,388 @@
+
+[2024-12-08 22:31:10] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 22:31:10] Ruta procesada: ["usuarios"]
+[2024-12-08 22:31:10] Consulta realizada correctamente.
+[2024-12-08 22:32:12] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 22:32:12] Ruta procesada: ["usuarios"]
+[2024-12-08 22:32:12] Consulta realizada correctamente.
+[2024-12-08 22:32:25] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php
+[2024-12-08 22:32:25] Ruta procesada: [""]
+[2024-12-08 22:32:26] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php
+[2024-12-08 22:32:26] Ruta procesada: [""]
+[2024-12-08 22:32:33] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 22:32:33] Ruta procesada: ["usuarios"]
+[2024-12-08 22:32:33] Consulta realizada correctamente.
+[2024-12-08 22:32:39] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:32:39] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:32:56] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:32:56] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:40:53] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:40:53] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:45:39] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:45:39] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:45:46] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:45:46] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:46:51] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:46:51] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:46:55] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 22:46:55] Ruta procesada: ["usuarios"]
+[2024-12-08 22:46:55] Consulta realizada correctamente.
+[2024-12-08 22:47:20] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:47:20] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:47:42] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:47:42] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:48:03] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 22:48:03] Ruta procesada: ["usuarios"]
+[2024-12-08 22:48:03] Consulta realizada correctamente.
+[2024-12-08 22:48:05] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 22:48:05] Ruta procesada: ["usuarios"]
+[2024-12-08 22:48:05] Consulta realizada correctamente.
+[2024-12-08 22:48:11] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:48:11] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:56:06] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:56:06] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:56:16] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:56:16] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:56:35] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:56:35] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:58:53] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:58:53] Ruta procesada: ["usuarios","1"]
+[2024-12-08 22:59:30] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-08 22:59:30] Ruta procesada: ["usuarios","1"]
+[2024-12-08 23:00:21] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:00:21] Ruta procesada: ["usuarios"]
+[2024-12-08 23:00:21] Consulta realizada correctamente.
+[2024-12-08 23:01:49] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:01:49] Ruta procesada: ["usuarios"]
+[2024-12-08 23:02:01] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/6
+[2024-12-08 23:02:01] Ruta procesada: ["usuarios","6"]
+[2024-12-08 23:02:08] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/6
+[2024-12-08 23:02:08] Ruta procesada: ["usuarios","6"]
+[2024-12-08 23:02:16] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:02:16] Ruta procesada: ["usuarios"]
+[2024-12-08 23:02:26] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:02:26] Ruta procesada: ["usuarios"]
+[2024-12-08 23:02:26] Consulta realizada correctamente.
+[2024-12-08 23:02:37] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:02:37] Ruta procesada: ["usuarios"]
+[2024-12-08 23:02:37] Consulta realizada correctamente.
+[2024-12-08 23:02:39] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:02:39] Ruta procesada: ["usuarios"]
+[2024-12-08 23:02:39] Consulta realizada correctamente.
+[2024-12-08 23:09:05] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:09:05] Ruta procesada: ["usuarios"]
+[2024-12-08 23:10:09] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:10:09] Ruta procesada: ["usuarios"]
+[2024-12-08 23:10:11] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:10:11] Ruta procesada: ["usuarios"]
+[2024-12-08 23:15:17] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:15:17] Ruta procesada: ["usuarios"]
+[2024-12-08 23:17:02] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:17:02] Ruta procesada: ["usuarios"]
+[2024-12-08 23:24:32] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:24:32] Ruta procesada: ["usuarios"]
+[2024-12-08 23:24:32] Consulta realizada correctamente.
+[2024-12-08 23:24:32] Operación 'GET' realizada en '/usuarios'.
+[2024-12-08 23:40:11] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-08 23:40:11] Ruta procesada: ["usuarios"]
+[2024-12-08 23:40:11] Consulta realizada correctamente.
+[2024-12-08 23:40:11] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:05:41] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:05:41] Ruta procesada: ["usuarios"]
+[2024-12-09 00:05:41] Consulta realizada correctamente.
+[2024-12-09 00:05:41] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:05:41] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:05:41] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:05:41] Operación 'GET' realizada en '/usuarios/1'.
+[2024-12-09 00:05:41] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/999
+[2024-12-09 00:05:41] Ruta procesada: ["usuarios","999"]
+[2024-12-09 00:05:41] Operación 'GET' realizada en '/usuarios/999', pero el usuario no existe.
+[2024-12-09 00:05:41] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:05:41] Ruta procesada: ["usuarios"]
+[2024-12-09 00:05:41] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:05:41] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:05:41] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:05:41] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:05:41] Operación 'DELETE' realizada en '/usuarios/1'.
+[2024-12-09 00:06:21] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:21] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:21] Consulta realizada correctamente.
+[2024-12-09 00:06:21] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:06:21] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:21] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:21] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:21] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/999
+[2024-12-09 00:06:21] Ruta procesada: ["usuarios","999"]
+[2024-12-09 00:06:21] Operación 'GET' realizada en '/usuarios/999', pero el usuario no existe.
+[2024-12-09 00:06:21] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:21] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:21] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:21] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:21] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:21] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:21] Operación 'DELETE' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:41] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:41] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:41] Consulta realizada correctamente.
+[2024-12-09 00:06:41] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:06:41] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:41] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:41] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:41] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/999
+[2024-12-09 00:06:41] Ruta procesada: ["usuarios","999"]
+[2024-12-09 00:06:41] Operación 'GET' realizada en '/usuarios/999', pero el usuario no existe.
+[2024-12-09 00:06:41] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:41] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:41] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:41] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:41] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:41] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:41] Operación 'DELETE' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:42] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:42] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:42] Consulta realizada correctamente.
+[2024-12-09 00:06:42] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:06:42] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:42] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:42] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:42] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/999
+[2024-12-09 00:06:42] Ruta procesada: ["usuarios","999"]
+[2024-12-09 00:06:42] Operación 'GET' realizada en '/usuarios/999', pero el usuario no existe.
+[2024-12-09 00:06:42] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:42] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:42] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:42] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:42] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:42] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:42] Operación 'DELETE' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:43] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:43] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:43] Consulta realizada correctamente.
+[2024-12-09 00:06:43] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:06:43] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:43] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:43] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:43] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/999
+[2024-12-09 00:06:43] Ruta procesada: ["usuarios","999"]
+[2024-12-09 00:06:43] Operación 'GET' realizada en '/usuarios/999', pero el usuario no existe.
+[2024-12-09 00:06:43] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:43] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:43] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:43] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:43] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:43] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:43] Operación 'DELETE' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:49] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:49] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:49] Consulta realizada correctamente.
+[2024-12-09 00:06:49] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:06:49] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:49] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:49] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:49] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/999
+[2024-12-09 00:06:49] Ruta procesada: ["usuarios","999"]
+[2024-12-09 00:06:49] Operación 'GET' realizada en '/usuarios/999', pero el usuario no existe.
+[2024-12-09 00:06:49] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:49] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:49] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:49] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:49] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:49] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:49] Operación 'DELETE' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:50] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:50] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:50] Consulta realizada correctamente.
+[2024-12-09 00:06:50] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:06:50] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:50] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:50] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:50] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/999
+[2024-12-09 00:06:50] Ruta procesada: ["usuarios","999"]
+[2024-12-09 00:06:50] Operación 'GET' realizada en '/usuarios/999', pero el usuario no existe.
+[2024-12-09 00:06:50] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:50] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:50] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:50] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:50] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:50] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:50] Operación 'DELETE' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:52] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:06:52] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:06:52] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:06:59] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:06:59] Ruta procesada: ["usuarios"]
+[2024-12-09 00:06:59] Consulta realizada correctamente.
+[2024-12-09 00:06:59] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:07:06] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:07:06] Ruta procesada: ["usuarios"]
+[2024-12-09 00:07:06] Consulta realizada correctamente.
+[2024-12-09 00:07:06] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:11:01] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:11:01] Ruta procesada: ["usuarios"]
+[2024-12-09 00:11:01] Consulta realizada correctamente.
+[2024-12-09 00:11:01] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:11:12] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:11:12] Ruta procesada: ["usuarios"]
+[2024-12-09 00:11:12] Consulta realizada correctamente.
+[2024-12-09 00:11:12] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:11:13] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:11:13] Ruta procesada: ["usuarios"]
+[2024-12-09 00:11:13] Consulta realizada correctamente.
+[2024-12-09 00:11:13] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:11:15] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:11:15] Ruta procesada: ["usuarios"]
+[2024-12-09 00:11:15] Consulta realizada correctamente.
+[2024-12-09 00:11:15] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:11:20] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/2
+[2024-12-09 00:11:20] Ruta procesada: ["usuarios","2"]
+[2024-12-09 00:11:20] Operación 'GET' realizada en '/usuarios/2'.
+[2024-12-09 00:17:19] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:17:19] Ruta procesada: ["usuarios"]
+[2024-12-09 00:17:19] Consulta realizada correctamente.
+[2024-12-09 00:17:19] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:17:19] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:17:19] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:17:19] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:17:19] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/999
+[2024-12-09 00:17:19] Ruta procesada: ["usuarios","999"]
+[2024-12-09 00:17:19] Operación 'GET' realizada en '/usuarios/999', pero el usuario no existe.
+[2024-12-09 00:17:19] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:17:19] Ruta procesada: ["usuarios"]
+[2024-12-09 00:17:19] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:17:19] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:17:19] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:17:19] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:17:19] Operación 'DELETE' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:18:37] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:18:37] Ruta procesada: ["usuarios"]
+[2024-12-09 00:18:37] Consulta realizada correctamente.
+[2024-12-09 00:18:37] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:18:37] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:18:37] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:18:37] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:18:37] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/999
+[2024-12-09 00:18:37] Ruta procesada: ["usuarios","999"]
+[2024-12-09 00:18:37] Operación 'GET' realizada en '/usuarios/999', pero el usuario no existe.
+[2024-12-09 00:18:37] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:18:37] Ruta procesada: ["usuarios"]
+[2024-12-09 00:18:37] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:18:37] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:18:37] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:18:37] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:18:37] Operación 'DELETE' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:18:48] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/2
+[2024-12-09 00:18:48] Ruta procesada: ["usuarios","2"]
+[2024-12-09 00:18:48] Operación 'GET' realizada en '/usuarios/2'.
+[2024-12-09 00:19:47] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:19:47] Ruta procesada: ["usuarios"]
+[2024-12-09 00:19:47] Consulta realizada correctamente.
+[2024-12-09 00:19:47] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:19:55] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:19:55] Ruta procesada: ["usuarios"]
+[2024-12-09 00:19:55] Consulta realizada correctamente.
+[2024-12-09 00:19:55] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:20:00] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:20:00] Ruta procesada: ["usuarios"]
+[2024-12-09 00:20:00] Consulta realizada correctamente.
+[2024-12-09 00:20:00] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:20:50] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:20:50] Ruta procesada: ["usuarios"]
+[2024-12-09 00:20:50] Consulta realizada correctamente.
+[2024-12-09 00:20:50] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:21:19] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:21:19] Ruta procesada: ["usuarios"]
+[2024-12-09 00:21:19] Consulta realizada correctamente.
+[2024-12-09 00:21:19] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:21:35] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:21:35] Ruta procesada: ["usuarios"]
+[2024-12-09 00:21:35] Consulta realizada correctamente.
+[2024-12-09 00:21:35] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:21:36] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:21:36] Ruta procesada: ["usuarios"]
+[2024-12-09 00:21:36] Consulta realizada correctamente.
+[2024-12-09 00:21:36] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:21:38] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:21:38] Ruta procesada: ["usuarios"]
+[2024-12-09 00:21:38] Consulta realizada correctamente.
+[2024-12-09 00:21:38] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:21:42] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php
+[2024-12-09 00:21:42] Ruta procesada: [""]
+[2024-12-09 00:22:07] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php
+[2024-12-09 00:22:07] Ruta procesada: [""]
+[2024-12-09 00:22:56] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:22:56] Ruta procesada: ["usuarios"]
+[2024-12-09 00:22:56] Consulta realizada correctamente.
+[2024-12-09 00:22:56] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:23:07] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 00:23:07] Ruta procesada: ["usuarios"]
+[2024-12-09 00:23:07] Consulta realizada correctamente.
+[2024-12-09 00:23:07] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 00:23:20] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:23:20] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:23:20] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:24:20] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 00:24:20] Ruta procesada: ["usuarios","1"]
+[2024-12-09 00:24:20] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 00:24:23] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/2
+[2024-12-09 00:24:23] Ruta procesada: ["usuarios","2"]
+[2024-12-09 00:24:23] Operación 'GET' realizada en '/usuarios/2'.
+[2024-12-09 01:11:41] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/2
+[2024-12-09 01:11:41] Ruta procesada: ["usuarios","2"]
+[2024-12-09 01:11:41] Operación 'GET' realizada en '/usuarios/2'.
+[2024-12-09 01:11:49] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 01:11:49] Ruta procesada: ["usuarios"]
+[2024-12-09 01:11:49] Consulta realizada correctamente.
+[2024-12-09 01:11:49] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 01:11:59] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 01:11:59] Ruta procesada: ["usuarios"]
+[2024-12-09 01:11:59] Consulta realizada correctamente.
+[2024-12-09 01:11:59] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 01:12:00] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 01:12:00] Ruta procesada: ["usuarios"]
+[2024-12-09 01:12:00] Consulta realizada correctamente.
+[2024-12-09 01:12:00] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 01:12:06] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 01:12:06] Ruta procesada: ["usuarios"]
+[2024-12-09 01:12:06] Consulta realizada correctamente.
+[2024-12-09 01:12:06] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 01:12:06] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 01:12:06] Ruta procesada: ["usuarios","1"]
+[2024-12-09 01:12:06] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 01:12:06] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/999
+[2024-12-09 01:12:06] Ruta procesada: ["usuarios","999"]
+[2024-12-09 01:12:06] Operación 'GET' realizada en '/usuarios/999', pero el usuario no existe.
+[2024-12-09 01:12:06] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 01:12:06] Ruta procesada: ["usuarios"]
+[2024-12-09 01:12:06] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 01:12:06] Ruta procesada: ["usuarios","1"]
+[2024-12-09 01:12:06] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 01:12:06] Ruta procesada: ["usuarios","1"]
+[2024-12-09 01:12:06] Operación 'DELETE' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 01:12:07] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 01:12:07] Ruta procesada: ["usuarios"]
+[2024-12-09 01:12:07] Consulta realizada correctamente.
+[2024-12-09 01:12:07] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 01:12:07] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 01:12:07] Ruta procesada: ["usuarios","1"]
+[2024-12-09 01:12:07] Operación 'GET' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 01:12:07] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/999
+[2024-12-09 01:12:07] Ruta procesada: ["usuarios","999"]
+[2024-12-09 01:12:07] Operación 'GET' realizada en '/usuarios/999', pero el usuario no existe.
+[2024-12-09 01:12:07] Iniciando ejecución. Método: POST, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 01:12:07] Ruta procesada: ["usuarios"]
+[2024-12-09 01:12:07] Iniciando ejecución. Método: PUT, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 01:12:07] Ruta procesada: ["usuarios","1"]
+[2024-12-09 01:12:07] Iniciando ejecución. Método: DELETE, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/1
+[2024-12-09 01:12:07] Ruta procesada: ["usuarios","1"]
+[2024-12-09 01:12:07] Operación 'DELETE' realizada en '/usuarios/1', pero el usuario no existe.
+[2024-12-09 01:12:13] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 01:12:13] Ruta procesada: ["usuarios"]
+[2024-12-09 01:12:13] Consulta realizada correctamente.
+[2024-12-09 01:12:13] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 01:12:14] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios
+[2024-12-09 01:12:14] Ruta procesada: ["usuarios"]
+[2024-12-09 01:12:14] Consulta realizada correctamente.
+[2024-12-09 01:12:14] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 01:17:33] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/2
+[2024-12-09 01:17:33] Ruta procesada: ["usuarios","2"]
+[2024-12-09 01:17:33] Operación 'GET' realizada en '/usuarios/2'.
