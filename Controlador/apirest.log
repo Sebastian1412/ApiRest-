@@ -386,3 +386,152 @@
 [2024-12-09 01:17:33] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRestful/Controlador/Controlador.php/usuarios/2
 [2024-12-09 01:17:33] Ruta procesada: ["usuarios","2"]
 [2024-12-09 01:17:33] Operación 'GET' realizada en '/usuarios/2'.
+[2024-12-09 02:56:20] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php
+[2024-12-09 02:56:20] Ruta procesada: [""]
+[2024-12-09 02:57:01] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios
+[2024-12-09 02:57:01] Ruta procesada: ["usuarios"]
+[2024-12-09 02:57:01] Consulta realizada correctamente.
+[2024-12-09 02:57:01] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 03:12:40] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios?_=1733710359240
+[2024-12-09 03:12:40] Ruta procesada: ["usuarios?_=1733710359240"]
+[2024-12-09 03:14:02] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios?_=1733710442012
+[2024-12-09 03:14:02] Ruta procesada: ["usuarios?_=1733710442012"]
+[2024-12-09 03:14:55] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php?_=1733710495533
+[2024-12-09 03:14:55] Ruta procesada: ["?_=1733710495533"]
+[2024-12-09 03:17:23] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php?_=1733710643483
+[2024-12-09 03:17:23] Ruta procesada: ["?_=1733710643483"]
+[2024-12-09 03:19:45] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios?_=1733710785764
+[2024-12-09 03:19:45] Ruta procesada: ["usuarios?_=1733710785764"]
+[2024-12-09 03:21:47] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios
+[2024-12-09 03:21:47] Ruta procesada: ["usuarios"]
+[2024-12-09 03:21:47] Consulta realizada correctamente.
+[2024-12-09 03:21:47] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 03:24:19] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios?_=1733711059204
+[2024-12-09 03:24:19] Ruta procesada: ["usuarios?_=1733711059204"]
+[2024-12-09 03:25:13] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php?_=1733711112955
+[2024-12-09 03:25:13] Ruta procesada: ["?_=1733711112955"]
+[2024-12-09 03:25:16] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php?_=1733711116419
+[2024-12-09 03:25:16] Ruta procesada: ["?_=1733711116419"]
+[2024-12-09 03:30:19] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733711419741
+[2024-12-09 03:30:19] Ruta procesada: ["usuarios","2?_=1733711419741"]
+[2024-12-09 03:30:19] Operación 'GET' realizada en '/usuarios/2?_=1733711419741'.
+[2024-12-09 03:30:21] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733711421570
+[2024-12-09 03:30:21] Ruta procesada: ["usuarios","2?_=1733711421570"]
+[2024-12-09 03:30:21] Operación 'GET' realizada en '/usuarios/2?_=1733711421570'.
+[2024-12-09 03:30:23] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733711423833
+[2024-12-09 03:30:23] Ruta procesada: ["usuarios","2?_=1733711423833"]
+[2024-12-09 03:30:23] Operación 'GET' realizada en '/usuarios/2?_=1733711423833'.
+[2024-12-09 03:30:24] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733711424701
+[2024-12-09 03:30:24] Ruta procesada: ["usuarios","2?_=1733711424701"]
+[2024-12-09 03:30:24] Operación 'GET' realizada en '/usuarios/2?_=1733711424701'.
+[2024-12-09 03:30:31] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios
+[2024-12-09 03:30:31] Ruta procesada: ["usuarios"]
+[2024-12-09 03:30:31] Consulta realizada correctamente.
+[2024-12-09 03:30:31] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 03:30:32] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios
+[2024-12-09 03:30:32] Ruta procesada: ["usuarios"]
+[2024-12-09 03:30:32] Consulta realizada correctamente.
+[2024-12-09 03:30:32] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 03:31:07] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733711467842
+[2024-12-09 03:31:07] Ruta procesada: ["usuarios","2?_=1733711467842"]
+[2024-12-09 03:31:07] Operación 'GET' realizada en '/usuarios/2?_=1733711467842'.
+[2024-12-09 03:31:08] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733711468713
+[2024-12-09 03:31:08] Ruta procesada: ["usuarios","2?_=1733711468713"]
+[2024-12-09 03:31:08] Operación 'GET' realizada en '/usuarios/2?_=1733711468713'.
+[2024-12-09 03:31:11] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios
+[2024-12-09 03:31:11] Ruta procesada: ["usuarios"]
+[2024-12-09 03:31:11] Consulta realizada correctamente.
+[2024-12-09 03:31:11] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 03:31:12] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios
+[2024-12-09 03:31:12] Ruta procesada: ["usuarios"]
+[2024-12-09 03:31:12] Consulta realizada correctamente.
+[2024-12-09 03:31:12] Operación 'GET' realizada en '/usuarios'.
+[2024-12-09 03:31:18] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2
+[2024-12-09 03:31:18] Ruta procesada: ["usuarios","2"]
+[2024-12-09 03:31:18] Operación 'GET' realizada en '/usuarios/2'.
+[2024-12-09 03:31:32] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios?_=1733711492220
+[2024-12-09 03:31:32] Ruta procesada: ["usuarios?_=1733711492220"]
+[2024-12-09 03:31:38] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios?_=1733711498595
+[2024-12-09 03:31:38] Ruta procesada: ["usuarios?_=1733711498595"]
+[2024-12-09 03:32:03] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/3?_=1733711522884
+[2024-12-09 03:32:03] Ruta procesada: ["usuarios","3?_=1733711522884"]
+[2024-12-09 03:32:03] Operación 'GET' realizada en '/usuarios/3?_=1733711522884'.
+[2024-12-09 03:32:04] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/3?_=1733711523964
+[2024-12-09 03:32:04] Ruta procesada: ["usuarios","3?_=1733711523964"]
+[2024-12-09 03:32:04] Operación 'GET' realizada en '/usuarios/3?_=1733711523964'.
+[2024-12-09 03:32:06] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/3?_=1733711526031
+[2024-12-09 03:32:06] Ruta procesada: ["usuarios","3?_=1733711526031"]
+[2024-12-09 03:32:06] Operación 'GET' realizada en '/usuarios/3?_=1733711526031'.
+[2024-12-09 03:32:06] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/3?_=1733711526684
+[2024-12-09 03:32:06] Ruta procesada: ["usuarios","3?_=1733711526684"]
+[2024-12-09 03:32:06] Operación 'GET' realizada en '/usuarios/3?_=1733711526684'.
+[2024-12-09 03:32:07] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/3?_=1733711527252
+[2024-12-09 03:32:07] Ruta procesada: ["usuarios","3?_=1733711527252"]
+[2024-12-09 03:32:07] Operación 'GET' realizada en '/usuarios/3?_=1733711527252'.
+[2024-12-09 03:32:07] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/3?_=1733711527840
+[2024-12-09 03:32:07] Ruta procesada: ["usuarios","3?_=1733711527840"]
+[2024-12-09 03:32:07] Operación 'GET' realizada en '/usuarios/3?_=1733711527840'.
+[2024-12-09 03:32:08] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/3?_=1733711528052
+[2024-12-09 03:32:08] Ruta procesada: ["usuarios","3?_=1733711528052"]
+[2024-12-09 03:32:08] Operación 'GET' realizada en '/usuarios/3?_=1733711528052'.
+[2024-12-09 03:33:42] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2
+[2024-12-09 03:33:42] Ruta procesada: ["usuarios","2"]
+[2024-12-09 03:33:42] Operación 'GET' realizada en '/usuarios/2'.
+[2024-12-09 03:40:55] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712055343
+[2024-12-09 03:40:55] Ruta procesada: ["usuarios","2?_=1733712055343"]
+[2024-12-09 03:40:55] Operación 'GET' realizada en '/usuarios/2?_=1733712055343'.
+[2024-12-09 03:41:11] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios?_=1733712070967
+[2024-12-09 03:41:11] Ruta procesada: ["usuarios?_=1733712070967"]
+[2024-12-09 03:42:05] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php?_=1733712125217
+[2024-12-09 03:42:05] Ruta procesada: ["?_=1733712125217"]
+[2024-12-09 03:42:20] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php?_=1733712140263
+[2024-12-09 03:42:20] Ruta procesada: ["?_=1733712140263"]
+[2024-12-09 03:42:30] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712150791
+[2024-12-09 03:42:30] Ruta procesada: ["usuarios","2?_=1733712150791"]
+[2024-12-09 03:42:30] Operación 'GET' realizada en '/usuarios/2?_=1733712150791'.
+[2024-12-09 03:42:48] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/?_=1733712168581
+[2024-12-09 03:42:48] Ruta procesada: ["usuarios","?_=1733712168581"]
+[2024-12-09 03:42:48] Operación 'GET' realizada en '/usuarios/?_=1733712168581', pero el usuario no existe.
+[2024-12-09 03:45:29] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios?_=1733712329613
+[2024-12-09 03:45:29] Ruta procesada: ["usuarios?_=1733712329613"]
+[2024-12-09 03:45:33] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios?_=1733712333772
+[2024-12-09 03:45:33] Ruta procesada: ["usuarios?_=1733712333772"]
+[2024-12-09 03:45:49] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/?_=1733712349882
+[2024-12-09 03:45:49] Ruta procesada: ["usuarios","?_=1733712349882"]
+[2024-12-09 03:45:49] Operación 'GET' realizada en '/usuarios/?_=1733712349882', pero el usuario no existe.
+[2024-12-09 03:46:06] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712366449
+[2024-12-09 03:46:06] Ruta procesada: ["usuarios","2?_=1733712366449"]
+[2024-12-09 03:46:06] Operación 'GET' realizada en '/usuarios/2?_=1733712366449'.
+[2024-12-09 03:46:07] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712367446
+[2024-12-09 03:46:07] Ruta procesada: ["usuarios","2?_=1733712367446"]
+[2024-12-09 03:46:07] Operación 'GET' realizada en '/usuarios/2?_=1733712367446'.
+[2024-12-09 03:46:28] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712388565
+[2024-12-09 03:46:28] Ruta procesada: ["usuarios","2?_=1733712388565"]
+[2024-12-09 03:46:28] Operación 'GET' realizada en '/usuarios/2?_=1733712388565'.
+[2024-12-09 03:46:51] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712411657
+[2024-12-09 03:46:51] Ruta procesada: ["usuarios","2?_=1733712411657"]
+[2024-12-09 03:46:51] Operación 'GET' realizada en '/usuarios/2?_=1733712411657'.
+[2024-12-09 03:46:52] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712412752
+[2024-12-09 03:46:52] Ruta procesada: ["usuarios","2?_=1733712412752"]
+[2024-12-09 03:46:52] Operación 'GET' realizada en '/usuarios/2?_=1733712412752'.
+[2024-12-09 03:47:16] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712436767
+[2024-12-09 03:47:16] Ruta procesada: ["usuarios","2?_=1733712436767"]
+[2024-12-09 03:47:16] Operación 'GET' realizada en '/usuarios/2?_=1733712436767'.
+[2024-12-09 03:47:28] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712448157
+[2024-12-09 03:47:28] Ruta procesada: ["usuarios","2?_=1733712448157"]
+[2024-12-09 03:47:28] Operación 'GET' realizada en '/usuarios/2?_=1733712448157'.
+[2024-12-09 03:48:13] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php?_=1733712493017
+[2024-12-09 03:48:13] Ruta procesada: ["?_=1733712493017"]
+[2024-12-09 03:48:19] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php?_=1733712499512
+[2024-12-09 03:48:19] Ruta procesada: ["?_=1733712499512"]
+[2024-12-09 03:48:29] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712509636
+[2024-12-09 03:48:29] Ruta procesada: ["usuarios","2?_=1733712509636"]
+[2024-12-09 03:48:29] Operación 'GET' realizada en '/usuarios/2?_=1733712509636'.
+[2024-12-09 03:48:39] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios?_=1733712519472
+[2024-12-09 03:48:39] Ruta procesada: ["usuarios?_=1733712519472"]
+[2024-12-09 03:49:04] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/?_=1733712544799
+[2024-12-09 03:49:04] Ruta procesada: ["usuarios","?_=1733712544799"]
+[2024-12-09 03:49:04] Operación 'GET' realizada en '/usuarios/?_=1733712544799', pero el usuario no existe.
+[2024-12-09 03:49:52] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712592232
+[2024-12-09 03:49:52] Ruta procesada: ["usuarios","2?_=1733712592232"]
+[2024-12-09 03:49:52] Operación 'GET' realizada en '/usuarios/2?_=1733712592232'.
