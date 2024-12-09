@@ -535,3 +535,6 @@
 [2024-12-09 03:49:52] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712592232
 [2024-12-09 03:49:52] Ruta procesada: ["usuarios","2?_=1733712592232"]
 [2024-12-09 03:49:52] Operación 'GET' realizada en '/usuarios/2?_=1733712592232'.
+[2024-12-09 03:52:55] Iniciando ejecución. Método: GET, URI: /Proyectos/Portafolio/ApiRest-Php/Controlador/Controlador.php/usuarios/2?_=1733712775454
+[2024-12-09 03:52:55] Ruta procesada: ["usuarios","2?_=1733712775454"]
+[2024-12-09 03:52:55] Operación 'GET' realizada en '/usuarios/2?_=1733712775454'.
