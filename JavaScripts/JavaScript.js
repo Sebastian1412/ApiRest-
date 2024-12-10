@@ -1,8 +1,8 @@
 $(document).ready(function () {
     $('#usuariosTable').DataTable({
         ajax: {
-            url: '../Controlador/ControladorTabla.php', // Ruta al nuevo controlador
-            dataSrc: 'data' // Ajustar al formato JSON proporcionado
+            url: '../Controlador/ControladorTabla.php', 
+            dataSrc: 'data'
         },
         columns: [
             { data: 'id' },
@@ -11,23 +11,15 @@ $(document).ready(function () {
             { data: 'correo' },
             { data: 'fecha_nacimiento' },
             {
-                data: null, // Columna para botón "Editar"
+                data: null,
                 render: function (data, type, row) {
-                    return `
-                        <button class="button is-small is-info btn-editar" data-id="${row.id}" data-nombre="${row.nombre}" data-rut="${row.rut}" data-correo="${row.correo}" data-fecha_nacimiento="${row.fecha_nacimiento}">
-                            Editar
-                        </button>
-                    `;
+                    return `<button class="button is-small is-info btn-editar" data-id="${row.id}" data-nombre="${row.nombre}" data-rut="${row.rut}" data-correo="${row.correo}" data-fecha_nacimiento="${row.fecha_nacimiento}">Editar</button>`;
                 }
             },
             {
-                data: null, // Columna para botón "Eliminar"
+                data: null,
                 render: function (data, type, row) {
-                    return `
-                        <button class="button is-small is-danger btn-eliminar" data-id="${row.id}">
-                            Eliminar
-                        </button>
-                    `;
+                    return `<button class="button is-small is-danger btn-eliminar" data-id="${row.id}">Eliminar</button>`;
                 }
             }
         ],
@@ -44,7 +36,6 @@ $(document).ready(function () {
         ]
     });
 
-    // Listener para el botón "Eliminar"
     $('#usuariosTable').on('click', '.btn-eliminar', function () {
         const id = $(this).data('id');
         if (confirm('¿Estás seguro de que deseas eliminar este registro?')) {
@@ -52,7 +43,6 @@ $(document).ready(function () {
         }
     });
 
-    // Listener para el botón "Editar"
     $('#usuariosTable').on('click', '.btn-editar', function () {
         const data = {
             id: $(this).data('id'),
@@ -61,56 +51,45 @@ $(document).ready(function () {
             correo: $(this).data('correo'),
             fecha_nacimiento: $(this).data('fecha_nacimiento')
         };
-        abrirModal(data); // Abre el modal con los datos del registro
+        abrirModal(data);
     });
-});
 
-function eliminarRegistro(id) {
-    fetch('../Controlador/ControladorTabla.php', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ accion: 'eliminar', id: id })
-    })
+    function eliminarRegistro(id) {
+        fetch('../Controlador/ControladorTabla.php', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ accion: 'eliminar', id: id })
+        })
         .then((response) => response.json())
         .then((data) => {
             if (data.mensaje) {
                 alert(data.mensaje);
-                $('#usuariosTable').DataTable().ajax.reload(); // Recargar los datos
+                $('#usuariosTable').DataTable().ajax.reload();
             } else if (data.error) {
                 alert(data.error);
             }
         })
         .catch((error) => console.error('Error:', error));
-}
+    }
 
-document.addEventListener('DOMContentLoaded', () => {
     const modalIngresar = document.getElementById('ingresarModal');
     const guardarNuevo = document.getElementById('guardarNuevo');
     const cancelarNuevo = document.getElementById('cancelarNuevo');
 
-    // Función para abrir el modal
     function abrirModalIngresar() {
         modalIngresar.classList.add('is-active');
     }
 
-    // Función para cerrar el modal
     function cerrarModalIngresar() {
         modalIngresar.classList.remove('is-active');
     }
 
-    // Listener para cerrar el modal
     cancelarNuevo.addEventListener('click', cerrarModalIngresar);
 
-    // Enviar datos al controlador y cerrar el modal
     guardarNuevo.addEventListener('click', (e) => {
         e.preventDefault();
-
         const formData = new FormData(document.getElementById('formIngresar'));
         formData.append('accion', 'insertar');
-
-        // Cerrar el modal inmediatamente después de presionar "Guardar"
         cerrarModalIngresar();
 
         fetch('../Controlador/ControladorTabla.php', {
@@ -122,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (data.mensaje || data.error) {
                 alert(data.mensaje || data.error);
                 setTimeout(() => {
-                    location.reload(); // Recargar la tabla después de mostrar la notificación
+                    location.reload();
                 }, 3000);
             }
         })
@@ -132,16 +111,10 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Botón para abrir el modal
-    document.getElementById('openIngresarModal').addEventListener('click', abrirModalIngresar);
-});
-
-document.addEventListener('DOMContentLoaded', () => {
     const modalActualizar = document.getElementById('exampleModal');
     const guardarCambios = document.getElementById('guardarCambios');
     const cancelar = document.getElementById('cancelar');
 
-    // Función para abrir el modal y llenar los campos con los datos del usuario
     function abrirModal(data) {
         document.getElementById('idUsuario').value = data.id;
         document.getElementById('nombre').value = data.nombre;
@@ -151,21 +124,16 @@ document.addEventListener('DOMContentLoaded', () => {
         modalActualizar.classList.add('is-active');
     }
 
-    // Función para cerrar el modal
     function cerrarModal() {
         modalActualizar.classList.remove('is-active');
     }
 
-    // Listener para cerrar el modal
     cancelar.addEventListener('click', cerrarModal);
 
-    // Enviar datos al controlador y cerrar el modal
     guardarCambios.addEventListener('click', (e) => {
         e.preventDefault();
-
         const formData = new FormData(document.getElementById('formActualizar'));
         formData.append('accion', 'actualizar');
-
         cerrarModal();
 
         fetch('../Controlador/ControladorTabla.php', {
@@ -177,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (data.mensaje || data.error) {
                 alert(data.mensaje || data.error);
                 setTimeout(() => {
-                    $('#usuariosTable').DataTable().ajax.reload(); // Recargar la tabla después de mostrar la notificación
+                    $('#usuariosTable').DataTable().ajax.reload();
                 }, 3000);
             }
         })
@@ -187,19 +155,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Listener para el botón "Editar"
-    $('#usuariosTable').on('click', '.btn-editar', function () {
-        const data = {
-            id: $(this).data('id'),
-            nombre: $(this).data('nombre'),
-            rut: $(this).data('rut'),
-            correo: $(this).data('correo'),
-            fecha_nacimiento: $(this).data('fecha_nacimiento')
-        };
-        abrirModal(data); // Abre el modal con los datos del registro
-    });
-
-    // Botón para abrir el modal
-    document.getElementById('openIngresarModal').addEventListener('click', abrirModal);
+    document.getElementById('openIngresarModal').addEventListener('click', abrirModalIngresar);
 });
-
