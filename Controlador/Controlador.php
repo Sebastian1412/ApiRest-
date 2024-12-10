@@ -2,7 +2,8 @@
 header("Content-Type: application/json");
 require 'Conexion.php';
 
-function writeLog($message) {
+function writeLog($message)
+{
     $logFile = __DIR__ . '/apirest.log';
     $timestamp = date('Y-m-d H:i:s');
     $entry = "[$timestamp] $message" . PHP_EOL;
@@ -54,7 +55,8 @@ if (isset($path[0]) && $path[0] === 'usuarios') {
     echo json_encode(["error" => "Ruta no válida"]);
 }
 
-function getUsuarios() {
+function getUsuarios()
+{
     global $pdo;
     try {
         $stmt = $pdo->query("SELECT * FROM usuarios");
@@ -67,7 +69,8 @@ function getUsuarios() {
     }
 }
 
-function getUsuario($id) {
+function getUsuario($id)
+{
     global $pdo;
     try {
         $stmt = $pdo->prepare("SELECT * FROM usuarios WHERE id = ?");
@@ -86,7 +89,8 @@ function getUsuario($id) {
     }
 }
 
-function createUsuario() {
+function createUsuario()
+{
     global $pdo;
 
     // Obtener y decodificar los datos del cuerpo de la solicitud
@@ -113,7 +117,8 @@ function createUsuario() {
     }
 }
 
-function updateUsuario($id) {
+function updateUsuario($id)
+{
     global $pdo;
     $data = json_decode(file_get_contents('php://input'), true);
 
@@ -143,7 +148,8 @@ function updateUsuario($id) {
     }
 }
 
-function deleteUsuario($id) {
+function deleteUsuario($id)
+{
     global $pdo;
 
     // Validar que el ID existe
@@ -171,7 +177,8 @@ function deleteUsuario($id) {
     }
 }
 
-function validateUserData($data) {
+function validateUserData($data)
+{
     $errors = [];
 
     if (empty($data['nombre'])) {
@@ -188,6 +195,3 @@ function validateUserData($data) {
 
     return $errors;
 }
-
-
-?>

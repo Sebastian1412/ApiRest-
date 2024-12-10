@@ -9,7 +9,7 @@ header('Access-Control-Allow-Origin: *');
 try {
     // Preparar la consulta SQL para seleccionar todos los datos
     $stmt = $pdo->query("SELECT * FROM usuarios");
-    
+
     // Verificar si hay resultados
     if ($stmt->rowCount() > 0) {
         // Obtener los resultados en un array asociativo
@@ -36,7 +36,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['accion']) && $_POST['
     actualizarUsuario();
 }
 
-function actualizarUsuario() {
+function actualizarUsuario()
+{
     global $pdo;
     $id = $_POST['id'];
     $nombre = $_POST['nombre'];
@@ -106,4 +107,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     }
 }
-?>

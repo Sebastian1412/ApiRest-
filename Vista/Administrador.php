@@ -12,7 +12,6 @@
     <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/buttons/2.3.6/js/dataTables.buttons.min.js"></script>
     <script src="https://cdn.datatables.net/buttons/2.3.6/js/buttons.html5.min.js"></script>
-    
 
     <script src="../JavaScripts/JavaScript.js"></script>
 </head>
@@ -46,7 +45,8 @@
         </div>
     </section>
 
-<?php include_once "../Vista/Modal.php" ?>
+    <?php include_once "../Vista/Modal.php" ?>
 
 </body>
+
 </html>

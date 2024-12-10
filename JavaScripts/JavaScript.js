@@ -1,7 +1,7 @@
 $(document).ready(function () {
     $('#usuariosTable').DataTable({
         ajax: {
-            url: '../Controlador/ControladorTabla.php', 
+            url: '../Controlador/ControladorTabla.php',
             dataSrc: 'data'
         },
         columns: [
@@ -60,16 +60,16 @@ $(document).ready(function () {
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ accion: 'eliminar', id: id })
         })
-        .then((response) => response.json())
-        .then((data) => {
-            if (data.mensaje) {
-                alert(data.mensaje);
-                $('#usuariosTable').DataTable().ajax.reload();
-            } else if (data.error) {
-                alert(data.error);
-            }
-        })
-        .catch((error) => console.error('Error:', error));
+            .then((response) => response.json())
+            .then((data) => {
+                if (data.mensaje) {
+                    alert(data.mensaje);
+                    $('#usuariosTable').DataTable().ajax.reload();
+                } else if (data.error) {
+                    alert(data.error);
+                }
+            })
+            .catch((error) => console.error('Error:', error));
     }
 
     const modalIngresar = document.getElementById('ingresarModal');
@@ -96,19 +96,19 @@ $(document).ready(function () {
             method: 'POST',
             body: formData,
         })
-        .then((response) => response.json())
-        .then((data) => {
-            if (data.mensaje || data.error) {
-                alert(data.mensaje || data.error);
-                setTimeout(() => {
-                    location.reload();
-                }, 3000);
-            }
-        })
-        .catch((error) => {
-            console.error('Error:', error);
-            alert('Datos Guardados Correctamente.');
-        });
+            .then((response) => response.json())
+            .then((data) => {
+                if (data.mensaje || data.error) {
+                    alert(data.mensaje || data.error);
+                    setTimeout(() => {
+                        location.reload();
+                    }, 3000);
+                }
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+                alert('Datos Guardados Correctamente.');
+            });
     });
 
     const modalActualizar = document.getElementById('exampleModal');
@@ -140,19 +140,19 @@ $(document).ready(function () {
             method: 'POST',
             body: formData,
         })
-        .then((response) => response.json())
-        .then((data) => {
-            if (data.mensaje || data.error) {
-                alert(data.mensaje || data.error);
-                setTimeout(() => {
-                    $('#usuariosTable').DataTable().ajax.reload();
-                }, 3000);
-            }
-        })
-        .catch((error) => {
-            console.error('Error:', error);
-            alert('Datos Actualizados Correctamente.');
-        });
+            .then((response) => response.json())
+            .then((data) => {
+                if (data.mensaje || data.error) {
+                    alert(data.mensaje || data.error);
+                    setTimeout(() => {
+                        $('#usuariosTable').DataTable().ajax.reload();
+                    }, 3000);
+                }
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+                alert('Datos Actualizados Correctamente.');
+            });
     });
 
     document.getElementById('openIngresarModal').addEventListener('click', abrirModalIngresar);
