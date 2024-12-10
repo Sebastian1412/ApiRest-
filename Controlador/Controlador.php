@@ -59,12 +59,12 @@ function getUsuarios() {
     try {
         $stmt = $pdo->query("SELECT * FROM usuarios");
         writeLog("Consulta realizada correctamente.");
-        echo json_encode($stmt->fetchAll(PDO::FETCH_ASSOC));
+        echo json_encode($stmt->fetchAll(PDO::FETCH_ASSOC)); // los datos son directamente devueltos sin envoltura adicional
         writeLog("Operación 'GET' realizada en '/usuarios'.");
     } catch (Exception $e) {
         writeLog("Error al realizar la consulta: " . $e->getMessage());
-        echo json_encode(["error" => "Error al realizar la consulta."]);
-    }    
+        echo json_encode(["error" => "Error al realizar la consulta.", "details" => $e->getMessage()]);
+    }
 }
 
 function getUsuario($id) {
